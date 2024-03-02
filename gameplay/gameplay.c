@@ -11,7 +11,6 @@
 char Junk[16]; // buffer for discarding excessive user input, 
                // used by "FLUSH_STDIN" macro
 
-/*Ryan is a masochist confirmed*/
 /*c get degree needs to collectively touch grass*/
 
 
